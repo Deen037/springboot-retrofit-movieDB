@@ -1,6 +1,5 @@
 package com.gfa.moviedb.controllers;
 
-
 import com.gfa.moviedb.models.MovieList;
 import com.gfa.moviedb.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;

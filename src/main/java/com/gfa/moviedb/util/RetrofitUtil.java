@@ -36,7 +36,7 @@ public class RetrofitUtil {
 
 
         }
-        assert builder != null;
+
         return builder.build();
     }
 }
